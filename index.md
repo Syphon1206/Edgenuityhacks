@@ -11,12 +11,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Edgenuity-Hacks
+## Error 404 
+### Error 404
 
-- Bulleted
-- List
+- Features
+- Auto Complete Vocab
+- Video Scipper
+- Stealth (Prototype)
+- Auto Advance
+- And Many More
 
 1. Numbered
 2. List
